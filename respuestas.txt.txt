@@ -1,0 +1,5 @@
+f) Inspeccione desde el explorador de archivos la carpeta donde inicializó el repositorio:
+● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+	No se pueden ver los archivos, ya que se encuentra en el branch -opcion_2
+● vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+Puedo observar un diagrama con los commits que hice. 
